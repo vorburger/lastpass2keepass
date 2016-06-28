@@ -2,6 +2,8 @@
 
 Allows you to convert the LastPass export to a KeePass XML import.
 
+As an alternative to this script, you can also use manual steps through CSV export and re-import, as described e.g. in this blog post: http://blog2.vorburger.ch/2016/06/how-to-migrate-from-lastpass-to-keepass.html
+
 =head2 REQUIRES
 
 =over
